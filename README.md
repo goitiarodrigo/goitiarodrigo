@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goitiarodrigo&label=Profile%20views&color=0e75b6&style=flat" alt="goitiarodrigo" /> </p>
 
-- 🌱 Estoy aprendiendo acerca de **SQL**
+- 🌱 Estoy aprendiendo acerca de **Next**
 
 - 📫 Cómo contactarme **goitiarodrigo@hotmail.com**
 ---
