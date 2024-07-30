@@ -26,4 +26,4 @@
 
 
 ---
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goitiarodrigo&show_icons=true&locale=en&&count_private=false&theme=dark" alt="goitiarodrigo"  /></p>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goitiarodrigo&show_icons=true&locale=en&count_private=true&theme=dark" alt="goitiarodrigo"  /></p>
