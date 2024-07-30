@@ -26,5 +26,5 @@
 
 
 ---
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=goitiarodrigo)]
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=goitiarodrigo&include_all_commits=true)
 
